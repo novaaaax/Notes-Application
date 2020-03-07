@@ -43,7 +43,10 @@ app.delete("/api/notes/:id", function (req, res) {
     })
     return res.json(false);
 });
+<<<<<<< HEAD
 
+=======
+>>>>>>> 50eacc92776faf8344aaf41e37ee3d7c47ad77f7
 app.listen(PORT, function () {
     console.log("App listening on PORT" + PORT);
 });
