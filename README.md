@@ -16,6 +16,10 @@ Meant for poeple who need to write something down in order to not forget it.
 ![img](example.jpeg)
 ## Technologies Used/Bagdes: 
 ![img](https://img.shields.io/badge/JavaScript-used-red)
+![img](https://img.shields.io/badge/HTML-used-red)
+![img](https://img.shields.io/badge/CSS-used-red)
+![img](https://img.shields.io/badge/Node.JS-used-red)
+![img](https://img.shields.io/badge/Heroku-used-red)
 ## Lisence:  
 MIT
 ## Contributors:
