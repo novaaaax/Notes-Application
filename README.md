@@ -12,6 +12,8 @@ This is a notes application that allows you to write, save, view and delete note
 None! All you need is a web browser!
 ## Usage:
 Meant for poeple who need to write something down in order to not forget it.
+![img](home.jpeg)
+![img](example.jpeg)
 ## Technologies Used/Bagdes: 
 ![img](https://img.shields.io/badge/JavaScript-used-red)
 ## Lisence:  
@@ -22,4 +24,3 @@ Edwin Genova
 None.
 ## GitHub: 
 ![img](https://avatars0.githubusercontent.com/u/21047601?v=4)
-edwingenova@gmail.com
