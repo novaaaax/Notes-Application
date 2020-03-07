@@ -9,7 +9,7 @@ This is a notes application that allows you to write, save, view and delete note
 * Tests
 * GitHub
 ## How To Install: 
-None! All you need is a web browser!
+All you need is a web browser!
 ## Usage:
 Meant for poeple who need to write something down in order to not forget it.
 ![img](home.jpeg)
