@@ -36,7 +36,7 @@ app.delete("/api/notes/:id", function (req, res) {
             db[i].id = 1 + i;
         }
     }
-    fs.writeFile("./db/db.json", JSON.stringify(db), 'utf8', function (err) {
+    fs.writeFile("./db/db.json", JSON.stringify(db), function (err) {
         if (err) {
             throw err;
         }
