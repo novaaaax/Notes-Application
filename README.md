@@ -12,6 +12,7 @@ This is a notes application that allows you to write, save, view and delete note
 All you need is a web browser!
 ## Usage:
 Meant for poeple who need to write something down in order to not forget it.
+Deployed link: https://morning-badlands-29426.herokuapp.com/notes
 ![img](home.jpeg)
 ![img](example.jpeg)
 ## Technologies Used/Bagdes: 
